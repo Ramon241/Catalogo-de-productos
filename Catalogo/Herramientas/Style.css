@@ -1,0 +1,37 @@
+#nam
+{
+  width: 129px !important;
+  height: 25px !important;
+  font-size: 17px !important;
+  border-color: #0d6efd !important;
+  padding: 4px 7px !important;
+}
+.b1 {
+  outline: none;
+  border: none;
+  padding: revert;
+    height: 31px;
+  
+}
+.s1
+{
+  border: 2px solid green;
+}
+
+.klk {
+  width: auto;
+  display: inline-table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.klk1
+{
+  padding-left: 0px;
+  padding-right: 250px;
+}
+
+.klk2
+{
+  cursor:pointer;
+}
